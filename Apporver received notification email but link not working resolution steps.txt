@@ -1,0 +1,21 @@
+IDENTIFY THE LINK FROM BELOW QUERY
+
+SELECT * FROM HUB_OWNER.HB_DISPUTE_NOTIFICATIONS
+WHERE DISPUTE_ID = -1
+AND EMAIL_ADDRESS = 'Evelin.Kerekes@bp.com' -- User email who complained the issue
+
+Check column message which is of a clob column
+and copy to the notepad
+and search for http 
+and identify the link. 
+Else open in html file and identify the link to send 
+with the user in email reported for the issue.
+
+USer will generally request business owner in this case, where
+the business owner will reuest ehub support team 
+for to share the valid link from the table.
+
+If the query results more records 
+then we need to identify the specific record based on the 
+email subject for the specific ASC number having issue.
+
