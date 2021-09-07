@@ -1,0 +1,9 @@
+{
+	"name": "dasadatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "351857e8-c3e9-430f-80d2-8278a1ef9f24",
+		"tenantId": "e51f47e7-03a3-4820-9540-e0950600c88f"
+	}
+}
