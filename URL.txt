@@ -1,0 +1,66 @@
+$ find . -type f -name alk
+
+$ find . -type f -name '*.pl'
+
+find / -type f -name httpd.conf
+
+grep -rnw -e hub_owner
+
+find . -type f -exec grep TransactionHeaderFetch '{}' \; -print
+
+TransactionHeaderFetch
+
+./data/log/prd_access_log
+
+pswd
+wwjorcg9amsk1v
+
+The expected way to access BP resources is from the web versions of Office 
+(for Outlook this is https://outlook.office.com  and Teams is https://teams.microsoft.com ). 
+
+prod ->  https://ehub.bpweb.bp.com/pls/ehub/security.startup
+OAT -> https://ehubv2oat.testweb.bp.com/pls/ehub/security.startup 
+
+Welcome@12345678
+Welcome@12345678
+
+
+https://amdc1-rds.bp.com/rdweb 
+https://amdc2-rds.bp.com/rdweb 
+https://emdc1-rds.bp.com/rdweb 
+https://emdc2-rds.bp.com/rdweb 
+
+Raise a request here to get included in Snow queue
+
+https://myit.bpglobal.com/myit?id=myit_form&sys_id=bd6d74a2dbe7cc104f734980399619f1
+
+Sterling:
+
+Sterling File Transfer
+OPS - Sterling File Transfer
+
+
+https://bp365.sharepoint.com.mcas.ms/sites/CF3/Finance/FCA2/eHUB_ADAM/Shared%20Documents/Forms/AllItems.aspx?View=%7B792932BA%2D7446%2D4C03%2DB484%2DAC81EF420900%7D
+
+
+Exit process
+---------------
+Finance related queries
+
+
+
+SUDS  -- No ticket
+
+BSI / JET -- No ticket
+
+Lotus Notes -- 5 per month
+
+50% on RO 
+
+SLAN - No tickets 
+
+eHub - 
+
+
+
+
